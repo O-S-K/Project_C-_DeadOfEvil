@@ -11,3 +11,5 @@ Explore a dark world Overcoming fearsome enemies and deadly traps as you venture
 Brutal combat With the sword in hand, it can wield all enemies along the way, trying to flexibly use the skills to finish the target as quickly as possible.
 
 Upgrade Finishing off more monsters will increase the stats after leveling up.
+
+Video Gameplay: https://www.youtube.com/watch?v=hJnMvOYQOG8&t=66s
